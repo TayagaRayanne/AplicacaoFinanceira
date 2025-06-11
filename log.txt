@@ -1,0 +1,19 @@
+[2025-06-11 17:17:22] Função 'depositar' executada com argumentos ([],) e {}. Retornou None
+[2025-06-11 17:17:36] Função 'depositar' executada com argumentos ([],) e {}. Retornou None
+[2025-06-11 17:18:34] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:18:47] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:18:59] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:19:09] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:29:54] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:30:17] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('tayaga rayanne', '202')>], [<ContaCorrente: ('0001', '1', 'tayaga rayanne')>]) e {}. Retornou None
+[2025-06-11 17:30:27] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:31:03] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:39:12] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:39:27] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:47:52] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:48:02] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:56:24] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '202')>],) e {}. Retornou None
+[2025-06-11 17:59:23] Função 'exibir_extrato' executada com argumentos ([],) e {}. Retornou None
+[2025-06-11 18:00:25] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('tayaga rayanne', '10680326421')>],) e {}. Retornou None
+[2025-06-11 18:00:33] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('tayaga rayanne', '10680326421')>], []) e {}. Retornou None
+[2025-06-11 18:00:45] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('tayaga rayanne', '10680326421')>], [<ContaCorrente: ('0001', '1', 'tayaga rayanne')>]) e {}. Retornou None
